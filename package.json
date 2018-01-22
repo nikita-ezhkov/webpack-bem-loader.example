@@ -14,6 +14,6 @@
     "babel-preset-env": "^1.6.1",
     "jquery": "^3.3.1",
     "webpack": "^3.10.0",
-    "webpack-bem-loader": "nikita-ezhkov/webpack-bem-loader#possibility-of-generators-customization"
+    "webpack-bem-loader": "bem/webpack-bem-loader#custom-generators"
   }
 }
