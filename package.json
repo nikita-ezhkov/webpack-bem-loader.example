@@ -1,0 +1,19 @@
+{
+  "name": "bem-webpack2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "jquery": "^3.3.1",
+    "webpack": "^3.10.0",
+    "webpack-bem-loader": "nikita-ezhkov/webpack-bem-loader#possibility-of-generators-customization"
+  }
+}
